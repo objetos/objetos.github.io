@@ -33,11 +33,11 @@ favor observar:
 | 8      | 18/9-21/9   | Semana universitaria                                                        |                                                        |
 | 9      | 25/9-28/9   | Presentación proyecto 1                                                     | --                                                     |
 | 10     | 2/10-5/10   | Design                                                                      |                                                        |
-| 11     | 9/10-12/10  | Tutorial 1<sup id="a1">[1](#f1)</sup>                                       |                                                        |
-| 12     | 17/10-19/10 | Tutorial 1<sup id="a1">[1](#f1)</sup>                                       |                                                        |
-| 13     | 23/10-26/10 | Tutorial 1<sup id="a1">[1](#f1)</sup>                                       |                                                        |
-| 14     | 30/10-2/11  | Tutorial 1<sup id="a1">[1](#f1)</sup>                                       |                                                        |
+| 11     | 9/10-12/10  | Tutorial<sup id="a1">[1](#f1)</sup>                                         |                                                        |
+| 12     | 17/10-19/10 | Tutorial<sup id="a1">[1](#f1)</sup>                                         |                                                        |
+| 13     | 23/10-26/10 | Tutorial<sup id="a1">[1](#f1)</sup>                                         |                                                        |
+| 14     | 30/10-2/11  | Tutorial<sup id="a1">[1](#f1)</sup>                                         |                                                        |
 | 15     | 7/11-9/11   | Asesorías proyecto 2                                                        |                                                        |
 | 16     | 14/11-16/11 | Presentación proyecto 2                                                     |                                                        |
 
-<b id="f1">1</b> [Tutorials](https://processing.org/tutorials/) depends on audience interest [↩](#a1)
+<b id="f1">1</b> [Tutorial](https://processing.org/tutorials/) depends on audience interest [↩](#a1)

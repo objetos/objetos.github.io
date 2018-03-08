@@ -6,41 +6,10 @@ En ese sitio se presentan los recursos en línea de la materia de _programación
 
 Aprender qué (no) es POO
 
-## Específicos
+### Específicos
 
 1. Aprender los fundamentos de POO
 2. Reconocer cuándo (no) emplear POO
-
-## Course outline: Part 1 Preleminaries
-
-1. Free software
-2. git
-4. Math
-5. Structure programming
-
-V:
-
-## Course outline: Part 2 Objects
-
-1. Objects
-2. Method overloading (static binding)
-2. Polymorphism (dynamic binding)
-
-V:
-
-## Course outline: Part 3 Extras
-
-1. Intro to data structures
-2. Strings
-3. Data
-<!--- design: https://processing.org/tutorials/anatomy/ --->
-5. Utilities: libraries, gui editors, ...
-
-V:
-
-## Course outline: Part 3 Project
-
-to be defined (the sooner the better)...
 
 ## Metodología y evaluación
 
@@ -72,7 +41,7 @@ favor observar:
 | 7      | [objects](https://github.com/objetos/objects)                               | acá                                                    |
 | 8      | [Polymorphism](https://github.com/objetos/polymorphism)                     | acá                                                    |
 | 9      | Presentación proyecto 1                                                     | --                                                     |
-| 11     | [Tutorial en data]()                                                        |                                                        |
+| 11     | [Tutorial en data](https://github.com/objetos/data)                         |                                                        |
 | 12     | Tutorial Strings <sup id="a1">[1](#f1)</sup>                                |                                                        |
 | 13     | Tutorial en estructuras de datos <sup id="a1">[1](#f1)</sup>                |                                                        |
 | 14     | Tutorial librerías <sup id="a1">[1](#f1)</sup>                              |                                                        |

@@ -32,7 +32,7 @@ favor observar:
 
 [Acá](https://objetos.github.io/projects/) encuentran una selección de proyectos y talleres pasados, algunos de los cuales se pueden ejecutar en línea.
 
-Gracias especiales a [Julian Salomon](https://github.com/JulianSalomon) por poner a punto la página ([ódigo fuente acá](https://github.com/objetos/projects)), empleando [gohugo](https://gohugo.io/).
+Gracias especiales a [Julian Salomon](https://github.com/JulianSalomon) por poner a punto la página ([código fuente acá](https://github.com/objetos/projects)), empleando [gohugo](https://gohugo.io/).
 
 ## Programa detallado
 
@@ -51,7 +51,7 @@ Gracias especiales a [Julian Salomon](https://github.com/JulianSalomon) por pone
 | 12     | Tutorial Strings <sup id="a1">[1](#f1)</sup>                                |                                                        |
 | 13     | Tutorial en estructuras de datos <sup id="a1">[1](#f1)</sup>                |                                                        |
 | 14     | Tutorial librerías <sup id="a1">[1](#f1)</sup>                              |                                                        |
-| 15     | Asesorías proyecto 2                                                        |                                                        |
-| 16     | Presentación proyecto 2                                                     |                                                        |
+| 15     | Asesorías proyecto final                                                    |                                                        |
+| 16     | Presentación proyecto final                                                 |                                                        |
 
 <b id="f1">1</b> [Tutorial](https://processing.org/tutorials/) depends on audience interest [↩](#a1)

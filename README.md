@@ -49,9 +49,9 @@ Gracias especiales a [Julian Salomon](https://github.com/JulianSalomon) por pone
 | 7      | [objects](https://github.com/objetos/objects)                               | acá                                                    |
 | 8      | [More objects](https://github.com/objetos/objects)                          | acá                                                    |
 | 9      | [Polymorphism](https://github.com/objetos/polymorphism)                     | acá                                                    |
-| 10     | Presentación proyecto 1                                                     | --                                                     |
+| 10     | Project: Problem statement (presentation)                                   | --                                                     |
 | 11     | [Tutorial en data](https://github.com/objetos/data)                         |                                                        |
-| 12     | Tutorial librerías                                                          |                                                        |
-| 14     | Tutorial Strings                                                            |                                                        |
-| 15     | Asesorías proyecto final                                                    |                                                        |
-| 16     | Presentación proyecto final                                                 |                                                        |
+| 12     | Libraries tutorial                                                          |                                                        |
+| 14     | Strings tutorial                                                            |                                                        |
+| 15     | Project final discussion (discussion)                                       |                                                        |
+| 16     | Project results (presentation)                                              |                                                        |

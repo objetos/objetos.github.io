@@ -8,8 +8,11 @@ Aprender qué (no) es POO
 
 ### Específicos
 
+0. Repasar programación
 1. Aprender los fundamentos de POO
-2. Reconocer cuándo (no) emplear POO
+2. Distinguir POO de otros paradigmas
+3. Experimentar el uso de POO para trabajo colaborativo
+4. Aprender el uso de librerías POO
 
 ## Metodología y evaluación
 
@@ -17,14 +20,13 @@ A partir de cuatro tipos de ejercicios:
 
 1. Quizzes (20%): de lecturas
 2. Talleres (10% c/u): ejercicios 
-3. Preparación de tutoriales (10% c/u) de las (imágenes) de las presentaciones
+3. Preparación de tutoriales (10% c/u)
 4. Proyectos (30% c/u): aplicación o indagación teórica
 
 favor observar:
 
-* Los quizzes se evaluan cuantitativamente
 * Los quizzes y los talleres son los únicos ejercicios individuales
-* Los proyectos pueden ser sugeridos o propuestos por iniciativa propia
+* Los proyectos pueden ser sugeridos y/o propuestos por iniciativa propia (requiere discusión)
 * Un proyecto se completa con la presentación del mismo
 * Un taller se completa mediante sustentación oral _in situ_
 
@@ -45,13 +47,11 @@ Gracias especiales a [Julian Salomon](https://github.com/JulianSalomon) por pone
 | 5      | [bash](https://github.com/objetos/bash/tree/gh-pages)                       | acá                                                    |
 | 6      | [Git](https://github.com/VisualComputing/git)                               | acá                                                    |
 | 7      | [objects](https://github.com/objetos/objects)                               | acá                                                    |
-| 8      | [Polymorphism](https://github.com/objetos/polymorphism)                     | acá                                                    |
-| 9      | Presentación proyecto 1                                                     | --                                                     |
+| 8      | [More objects](https://github.com/objetos/objects)                          | acá                                                    |
+| 9      | [Polymorphism](https://github.com/objetos/polymorphism)                     | acá                                                    |
+| 10     | Presentación proyecto 1                                                     | --                                                     |
 | 11     | [Tutorial en data](https://github.com/objetos/data)                         |                                                        |
-| 12     | Tutorial Strings <sup id="a1">[1](#f1)</sup>                                |                                                        |
-| 13     | Tutorial en estructuras de datos <sup id="a1">[1](#f1)</sup>                |                                                        |
-| 14     | Tutorial librerías <sup id="a1">[1](#f1)</sup>                              |                                                        |
+| 12     | Tutorial librería                                                           |                                                        |
+| 14     | Tutorial Strings                                                            |                                                        |
 | 15     | Asesorías proyecto final                                                    |                                                        |
 | 16     | Presentación proyecto final                                                 |                                                        |
-
-<b id="f1">1</b> [Tutorial](https://processing.org/tutorials/) depends on audience interest [↩](#a1)

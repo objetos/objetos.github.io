@@ -51,7 +51,7 @@ Gracias especiales a [Julian Salomon](https://github.com/JulianSalomon) por pone
 | 9      | [Polymorphism](https://github.com/objetos/polymorphism)                     | acá                                                    |
 | 10     | Presentación proyecto 1                                                     | --                                                     |
 | 11     | [Tutorial en data](https://github.com/objetos/data)                         |                                                        |
-| 12     | Tutorial librería                                                           |                                                        |
+| 12     | Tutorial librerías                                                          |                                                        |
 | 14     | Tutorial Strings                                                            |                                                        |
 | 15     | Asesorías proyecto final                                                    |                                                        |
 | 16     | Presentación proyecto final                                                 |                                                        |

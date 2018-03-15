@@ -53,5 +53,5 @@ Gracias especiales a [Julian Salomon](https://github.com/JulianSalomon) por pone
 | 11     | [Tutorial en data](https://github.com/objetos/data)                         |                                                        |
 | 12     | Libraries tutorial                                                          |                                                        |
 | 14     | Strings tutorial                                                            |                                                        |
-| 15     | Project final discussion (discussion)                                       |                                                        |
+| 15     | Project results (discussion)                                                |                                                        |
 | 16     | Project results (presentation)                                              |                                                        |

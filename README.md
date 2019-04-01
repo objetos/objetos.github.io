@@ -30,12 +30,6 @@ favor observar:
 * Un proyecto se completa con la presentación del mismo
 * Un taller se completa mediante sustentación oral _in situ_
 
-## Proyectos y talleres pasados
-
-[Acá](https://objetos.github.io/projects/) encuentran una selección de proyectos y talleres pasados, algunos de los cuales se pueden ejecutar en línea.
-
-Gracias especiales a [Julian Salomon](https://github.com/JulianSalomon) por poner a punto la página ([código fuente acá](https://github.com/objetos/projects)), empleando [gohugo](https://gohugo.io/).
-
 ## Programa detallado
 
 | Semana | Tema                                                                        | Taller                                                 |

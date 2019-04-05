@@ -16,19 +16,8 @@ Aprender qué (no) es POO
 
 ## Metodología y evaluación
 
-A partir de cuatro tipos de ejercicios:
-
-1. Quizzes (20%): de lecturas
-2. Talleres (10% c/u): ejercicios 
-3. Preparación de tutoriales (10% c/u)
-4. Proyectos (30% c/u): aplicación o indagación teórica
-
-favor observar:
-
-* Los quizzes y los talleres son los únicos ejercicios individuales
-* Los proyectos pueden ser sugeridos y/o propuestos por iniciativa propia (requiere discusión)
-* Un proyecto se completa con la presentación del mismo
-* Un taller se completa mediante sustentación oral _in situ_
+1. Quizzes (20%): control de lecturas
+2. Talleres (entre 20% y 30% c/u): código e informe. Requieren sustentación oral _in situ_
 
 ## Programa detallado
 

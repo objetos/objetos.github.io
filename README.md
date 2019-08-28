@@ -17,7 +17,7 @@ Aprender qué (no) es POO
 ## Metodología y evaluación
 
 1. Quizzes (20%): control de lecturas
-2. Talleres (entre 20% y 30% c/u): código e informe. Requieren sustentación oral _in situ_
+2. Talleres (entre 20% y 30% c/u): código y presentación oral _in situ_
 
 ## Programa detallado
 

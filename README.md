@@ -16,25 +16,24 @@ Aprender qué (no) es POO
 
 ## Metodología y evaluación
 
-1. Quizzes (20%): control de lecturas
-2. Talleres (entre 20% y 30% c/u): código y presentación oral _in situ_
+1. Talleres (entre 20% y 30% c/u): código y presentación oral _in situ_
 
 ## Programa detallado
 
-| Semana | Tema                                                                        | Taller                                                 |
-|--------|-----------------------------------------------------------------------------|--------------------------------------------------------|
-| 1      | [Introduction](https://github.com/VisualComputing/Introduction)             | --                                                     |
-| 2      | [Processing](https://processing.org/)                                       | acá                                                    |
-| 3      | [Structured programming](https://github.com/objetos/structured_programming) | acá                                                    |
-| 4      | [Free software](https://en.wikipedia.org/wiki/Free_software)                | acá                                                    |
-| 5      | [bash](https://github.com/objetos/bash/tree/gh-pages)                       | acá                                                    |
-| 6      | [Git](https://github.com/VisualComputing/git)                               | acá                                                    |
-| 7      | [objects](https://github.com/objetos/objects)                               | acá                                                    |
-| 8      | [More objects](https://github.com/objetos/objects)                          | acá                                                    |
-| 9      | [Polymorphism](https://github.com/objetos/polymorphism)                     | acá                                                    |
-| 10     | Project: Problem statement (presentation)                                   | --                                                     |
-| 11     | [Data tutorial](https://github.com/objetos/data)                            |                                                        |
-| 12     | Libraries tutorial                                                          |                                                        |
-| 14     | Strings tutorial                                                            |                                                        |
-| 15     | Project results (discussion)                                                |                                                        |
-| 16     | Project results (presentation)                                              |                                                        |
+| Semana | Tema                                                                        |
+|--------|-----------------------------------------------------------------------------|
+| 1      | [Introduction](https://github.com/VisualComputing/Introduction)             |
+| 2      | [Processing](https://processing.org/)                                       |
+| 3      | [Structured programming](https://github.com/objetos/structured_programming) |
+| 4      | [Free software](https://en.wikipedia.org/wiki/Free_software)                |
+| 5      | [bash](https://github.com/objetos/bash/tree/gh-pages)                       |
+| 6      | [Git](https://github.com/VisualComputing/git)                               |
+| 7      | [objects](https://github.com/objetos/objects)                               |
+| 8      | [More objects](https://github.com/objetos/objects)                          |
+| 9      | [Polymorphism](https://github.com/objetos/polymorphism)                     |
+| 10     | Project: Problem statement (presentation)                                   |
+| 11     | [Data tutorial](https://github.com/objetos/data)                            |
+| 12     | Libraries tutorial                                                          |
+| 14     | Strings tutorial                                                            |
+| 15     | Project results (discussion)                                                |
+| 16     | Project results (presentation)                                              |

@@ -20,20 +20,16 @@ Aprender qué (no) es POO
 
 ## Programa detallado
 
-| Semana | Tema                                                                        |
-|--------|-----------------------------------------------------------------------------|
-| 1      | [Introduction](https://github.com/VisualComputing/Introduction)             |
-| 2      | [Processing](https://processing.org/)                                       |
-| 3      | [Structured programming](https://github.com/objetos/structured_programming) |
-| 4      | [Free software](https://en.wikipedia.org/wiki/Free_software)                |
-| 5      | [bash](https://github.com/objetos/bash/tree/gh-pages)                       |
-| 6      | [Git](https://github.com/VisualComputing/git)                               |
-| 7      | [objects](https://github.com/objetos/objects)                               |
-| 8      | [More objects](https://github.com/objetos/objects)                          |
-| 9      | [Polymorphism](https://github.com/objetos/polymorphism)                     |
-| 10     | Project: Problem statement (presentation)                                   |
-| 11     | [Data tutorial](https://github.com/objetos/data)                            |
-| 12     | Libraries tutorial                                                          |
-| 14     | Strings tutorial                                                            |
-| 15     | Project results (discussion)                                                |
-| 16     | Project results (presentation)                                              |
+| Tema                                                                        |
+|-----------------------------------------------------------------------------|
+| [Introduction](https://github.com/VisualComputing/Introduction)             |
+| [Processing](https://processing.org/)                                       |
+| [Structured programming](https://github.com/objetos/structured_programming) |
+| [Free software](https://en.wikipedia.org/wiki/Free_software)                |
+| [Git](https://github.com/VisualComputing/git)                               |
+| [objects](https://github.com/objetos/objects)                               |
+| [More objects](https://github.com/objetos/objects)                          |
+| [Polymorphism](https://github.com/objetos/polymorphism)                     |
+| [Data tutorial](https://github.com/objetos/data)                            |
+| Libraries tutorial                                                          |
+| Other stuff: multiple inheritance, exception handling,...                   |

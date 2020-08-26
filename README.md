@@ -16,7 +16,7 @@ Aprender qué (no) es POO
 
 ## Metodología y evaluación
 
-1. Talleres (entre 20% y 30% c/u): código y presentación oral _in situ_
+1. Talleres: código y presentación
 
 ## Programa detallado
 
@@ -24,12 +24,13 @@ Aprender qué (no) es POO
 |-----------------------------------------------------------------------------|
 | [Introduction](https://github.com/VisualComputing/Introduction)             |
 | [Processing](https://processing.org/)                                       |
-| [Structured programming](https://github.com/objetos/structured_programming) |
 | [Free software](https://en.wikipedia.org/wiki/Free_software)                |
+| [Structured programming](https://github.com/objetos/structured_programming) |
 | [Git](https://github.com/VisualComputing/git)                               |
 | [objects](https://github.com/objetos/objects)                               |
 | [More objects](https://github.com/objetos/objects)                          |
 | [Polymorphism](https://github.com/objetos/polymorphism)                     |
 | [Data tutorial](https://github.com/objetos/data)                            |
 | Libraries tutorial                                                          |
-| Other stuff: multiple inheritance, exception handling,...                   |
+| (optional) Other OOP stuff: multiple inheritance, exception handling,...    |
+| (optional) Other programming paradigms: generic & generative, funcitonal... |

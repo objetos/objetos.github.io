@@ -33,4 +33,4 @@ Aprender qué (no) es POO
 | [Data tutorial](https://github.com/objetos/data)                            |
 | Libraries tutorial                                                          |
 | (optional) Other OOP stuff: multiple inheritance, exception handling,...    |
-| (optional) Other programming paradigms: generic & generative, funcitonal... |
+| (optional) Other programming paradigms: generic & generative, functional... |
